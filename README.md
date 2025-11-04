@@ -22,7 +22,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3YN97O31JYAlzd5nUAThlbDiv7kE2m2hjw&s" alt="Canva" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
   <img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/180x180.png" alt="Vercel" width="45" height="45"/>
-  <img src="https://images.seeklogo.com/logo-png/53/1/render-logo-png_seeklogo-532232.png" alt="Render" width="45" height="45"/>
+  <img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" alt="Render" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
 </p>
 

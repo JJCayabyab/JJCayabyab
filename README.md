@@ -19,7 +19,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg" alt="DaisyUI" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Canva_icon_2021.svg" alt="Canva" width="45" height="45"/>
+  <img src="https://drive.google.com/file/d/1Ye20YLMaz_AYRfsbnR0MzqaA3XUJwWWV/view?usp=drive_link" alt="Canva" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
   <img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/180x180.png" alt="Vercel" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/RohanNagar/Render-Logo/main/render-logo.png" alt="Render" width="45" height="45"/>

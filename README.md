@@ -18,7 +18,7 @@
 <p align="center">
   <!-- Tailwind + DaisyUI + MySQL + Python -->
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
-  <img src="https://images.seeklogo.com/logo-png/61/1/daisyui-logo-png_seeklogo-616852.png" alt="DaisyUI" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg" alt="DaisyUI" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </p>

@@ -16,9 +16,10 @@
 </p>
 
 <p align="center">
-  <!-- Tailwind + DaisyUI + Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/daisyui/daisyui/main/src/docs/static/logo-192.png" alt="DaisyUI" width="50" height="50"/>
+  <!-- Tailwind + DaisyUI + MySQL + Python -->
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/6019716?s=200&v=4" alt="DaisyUI" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </p>
 

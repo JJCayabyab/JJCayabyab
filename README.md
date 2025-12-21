@@ -1,6 +1,5 @@
 # 👋 Hi, I'm **Jeremy**
-🎓 **Computer Science Graduate** from **Polytechnic University of the Philippines**  
-🚀 Aspiring **Full Stack Web Developer × Data Engineer**
+🎓 **Computer Science Graduate** from **Polytechnic University of the Philippines** 🚀 Aspiring **Full Stack Web Developer × Data Engineer**
 
 ---
 
@@ -14,8 +13,10 @@
 
 ### 🧩 Frameworks & Tools
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" title="TailwindCSS" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg" alt="DaisyUI" title="DaisyUI" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="45" height="45"/>

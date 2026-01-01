@@ -3,6 +3,12 @@
 
 ---
 
+### 🌐 My Portfolio
+Check out my latest projects and work here:
+👉 **[jeremy-web-portfolio.vercel.app](https://jeremy-web-portfolio.vercel.app/)**
+
+---
+
 ### 💡 Languages & Databases
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="45" height="45"/>

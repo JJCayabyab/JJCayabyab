@@ -5,7 +5,7 @@
 
 ### 🌐 My Portfolio
 Check out my latest projects and work here:
-👉 **[jjcayabyab.vercel.ap](https://jjcayabyab.vercel.app/)**
+👉 **[jjcayabyab.vercel.app](https://jjcayabyab.vercel.app/)**
 
 ---
 

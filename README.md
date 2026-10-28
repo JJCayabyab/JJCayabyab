@@ -7,7 +7,7 @@ I'm a developer with experience building and maintaining web applications, testi
 **Development:** JavaScript · TypeScript · React · Next.js · Node.js · Express  
 **Data and tools:** PostgreSQL · MySQL · Prisma · Git · Docker  
 **Web platforms:** WordPress · WooCommerce · Vercel · Render  
-**IT support:** Windows · macOS · Basic networking · Google Workspace
+**IT Operations:** Windows · macOS · Basic networking · Google Admin Console
 
 ## Links
 

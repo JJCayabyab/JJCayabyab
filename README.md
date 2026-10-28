@@ -1,5 +1,6 @@
 # 👋 Hi, I'm **Jeremy**
-🎓 **Computer Science Graduate** from **Polytechnic University of the Philippines** 🚀 Aspiring **Full Stack Web Developer × Data Engineer**
+
+I'm a developer with experience building and maintaining web applications, testing features, and providing IT support. My work includes solving software problems and helping people use workplace technology.
 
 ---
 

@@ -1,6 +1,6 @@
 # Hi, I'm Jeremy 👋
 
-I'm a developer with experience building and maintaining web applications, testing features, and providing IT support. I enjoy solving software problems and making technology easier for people to use.
+I'm a Full Stack Developer with experience building and maintaining web applications, testing features, and supporting workplace IT operations. I enjoy solving software problems and making technology easier for people to use.
 
 ## Tech I work with
 

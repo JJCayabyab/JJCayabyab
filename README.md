@@ -4,10 +4,12 @@ I'm a Full Stack Developer with experience building and maintaining web applicat
 
 ## Tech I work with
 
-**Development:** JavaScript · TypeScript · React · Next.js · Node.js · Express  
-**Data and tools:** PostgreSQL · MySQL · Prisma · Git · Docker  
-**Web platforms:** WordPress · WooCommerce · Vercel · Render  
-**IT Operations:** Windows · macOS · Basic networking · Google Admin Console
+**Languages:** JavaScript · TypeScript · Python  
+**Frontend:** React · Next.js · Tailwind CSS · HTML · CSS  
+**Backend:** Node.js · Express · Prisma  
+**Databases:** PostgreSQL · MySQL  
+**Tools and platforms:** Git · Docker · Netlify · Vercel · Render  
+**IT operations:** Windows · macOS · Basic networking · Google Admin Console
 
 ## Links
 
